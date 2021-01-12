@@ -1,0 +1,9 @@
+html,body,dd,dl,dt,form,h1,h2,h3,h4,h5,h6,hr,li,ol,p,select,ul{margin:0;padding:0}
+li,ol,ul{list-style-type:none}
+a{text-decoration:none;}
+a img{border:0 none}
+
+h2 { text-align: center; }
+a { color: #5D5BFF;display: inline-block;width: 100px;white-space: nowrap;}
+.container { width: 200px; margin: 16px; }
+.container .menu .item{ margin: 10px 0; }
